@@ -19,6 +19,3 @@
 
 ## Disclaimer
 Template is WIP, there is missing core functional. That project shows how ECS can help to create clear project structure and gives ability to add features without pain.
-## Dependencies
-- Entitas ECS 1.6.1
-- Unity 2018.1
